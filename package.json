@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "adm-zip": "^0.4.7",
-    "snyk": "^1.1220.0"
+    "snyk": "^1.1220.0",
+    "typeorm": "^0.2.24"
   }
 }
