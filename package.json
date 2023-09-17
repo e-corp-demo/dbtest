@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "indrasecuritylib": "^0.0.1-security"
+    "adm-zip": "^0.5.2",
+    "indrasecuritylib": "^0.0.1-security",
+    "snyk": "^1.1220.0",
+    "typeorm": "^0.2.24"
   }
 }
